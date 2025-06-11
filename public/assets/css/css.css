@@ -1,0 +1,10 @@
+
+  /* Animasi saat tombol ditekan */
+  .animated-btn {
+    transition: transform 0.2s; /* Waktu durasi transisi */
+  }
+
+  /* Animasi ketika tombol di-hover */
+  .animated-btn:hover {
+    transform: scale(1.05); /* Efek scaling */
+  }

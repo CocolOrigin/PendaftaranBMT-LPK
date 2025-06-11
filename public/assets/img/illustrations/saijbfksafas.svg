@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="11.0914mm" height="11.0914mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 241.36 241.36"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:url(#id0)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="206.01" y1="206.01" x2="35.35" y2="35.35">
+   <stop offset="0" style="stop-opacity:1; stop-color:#013305"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#60CD6F"/>
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0" points="120.68,0 152.78,35.57 206.01,35.35 203.56,83.2 241.36,120.68 205.78,152.78 206.01,206.01 158.16,203.56 120.68,241.36 88.58,205.78 35.35,206.01 37.8,158.16 -0,120.68 35.57,88.58 35.35,35.35 83.2,37.8 "/>
+ </g>
+</svg>
