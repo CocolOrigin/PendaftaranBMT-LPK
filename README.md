@@ -15,7 +15,7 @@ Dibangun menggunakan CodeIgniter 4.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Penggunaan
 - **Backend** : PHP (CodeIgniter 4)
 - **Frontend** : HTML, CSS, JS (Bootstrap)
 - **Database** : MySQL
